@@ -17,7 +17,7 @@ left: 175px;}
 
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
 
-/*selector for sapphire goes here */ id.sand {
+/*selector for sapphire goes here */ sand {
   position: absolute;
   z-index: 5;
   top: 315px;
