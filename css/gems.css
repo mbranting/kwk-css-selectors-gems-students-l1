@@ -1,10 +1,10 @@
 /* Select the image with a id of ruby */
 
-img.ruby{
-  position: absolute;
-  z-index: 1;
-  top: 315px;
-  left: 175px;
+
+img.ruby {position: absolute;
+z-index: 1;
+top: 315px;
+left: 175px;
 }
 
 /* Select the image with class of emerald */
